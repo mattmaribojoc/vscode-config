@@ -1,0 +1,126 @@
+{
+  "[css]": {
+    "editor.suggest.insertMode": "replace"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "Vue.volar",
+    "editor.formatOnSave": true
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "codesnap.boxShadow": "none",
+  "codesnap.showWindowControls": false,
+  "codesnap.transparentBackground": true,
+  "css.validate": false,
+  "diffEditor.codeLens": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.renderSideBySide": false,
+  "diffEditor.wordWrap": "on",
+  "dotenv.cloakColor": "#15CA82",
+  "dotenv.enableAutocloaking": false,
+  "editor.accessibilitySupport": "off",
+  "editor.bracketPairColorization.enabled": false,
+  "editor.codeLens": false,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Dank Mono",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.lightbulb.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": []
+  },
+  "eslint.validate": ["javascript", "javascriptreact", "vue"],
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "files.associations": {
+    ".env*": "dotenv"
+  },
+  "files.exclude": {
+    "commitlint.config.js": true
+  },
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true,
+    "plaintext": false,
+    "yaml": true
+  },
+  "githubIssues.issueBranchTitle": "issue/${issueNumber}",
+  "githubIssues.queries": [
+    {
+      "label": "My Issues",
+      "query": "default"
+    },
+    {
+      "label": "Created Issues",
+      "query": "author:${user} state:open repo:${owner}/${repository} sort:created-desc"
+    },
+    {
+      "label": "Recent Issues",
+      "query": "state:open repo:${owner}/${repository} sort:updated-desc"
+    }
+  ],
+  "githubPullRequests.createOnPublishBranch": "never",
+  "githubPullRequests.pullBranch": "never",
+  "githubPullRequests.pushBranch": "always",
+  "githubPullRequests.terminalLinksHandler": "github",
+  "gitlens.defaultDateFormat": null,
+  "gitlens.plusFeatures.enabled": false,
+  "gitlens.views.repositories.showBranchComparison": "branch",
+  "html.format.wrapLineLength": 400,
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "js/ts.implicitProjectConfig.strictNullChecks": true,
+  "json.schemas": [],
+  "less.validate": false,
+  "polacode.backgroundColor": "#43B883",
+  "polacode.shadow": "none",
+  "polacode.transparentBackground": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "projectManager.git.baseFolders": ["/Users/matthewmaribojoc/Programming"],
+  "redhat.telemetry.enabled": false,
+  "scss.validate": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "settingsSync.ignoredSettings": ["prettier.trailingComma", "editor.tabSize"],
+  "snipped.enablePng": true,
+  "tailwindCSS.validate": true,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.title": "${activeEditorShort}${separator}${folderName}",
+  "window.zoomLevel": 2,
+  "workbench.activityBar.visible": false,
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.activeBackground": "#BFBECE",
+    "editorIndentGuide.background": "#44475a",
+    "tree.indentGuidesStroke": "#BFBECE"
+  },
+  "workbench.colorTheme": "Dracula Pro",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  "yaml.format.printWidth": 40,
+  "yaml.schemas": {}
+}

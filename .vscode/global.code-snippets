@@ -1,0 +1,15 @@
+{
+  "Vue 3 SFC": {
+    "scope": "vue",
+    "prefix": "sfc",
+    "body": [
+      "<script setup lang=\"ts\">",
+      "const props = defineProps<{}>()",
+      "</script>",
+      "<template>",
+      "</template>"
+    ],
+    "description": "Shell for a Vue 3 SFC with TypeScript and script setup",
+    "isFileTemplate": true
+  }
+}

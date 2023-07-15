@@ -1,0 +1,29 @@
+{
+  "recommendations": [
+    "adpyke.codesnap",
+    "alefragnani.project-manager",
+    "antfu.goto-alias",
+    "antfu.iconify",
+    "antfu.retypewriter",
+    "antfu.unocss",
+    "bradlc.vscode-tailwindcss",
+    "bungcip.better-toml",
+    "dbaeumer.vscode-eslint",
+    "dotenv.dotenv-vscode",
+    "dracula-theme-pro.theme-dracula-pro",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "GitHub.copilot",
+    "GitHub.vscode-pull-request-github",
+    "Gruntfuggly.todo-tree",
+    "Nuxt.mdc",
+    "PKief.material-icon-theme",
+    "Prisma.prisma",
+    "saekiraku.pin-up",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "william-voyek.vscode-nginx",
+    "withfig.fig",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
